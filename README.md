@@ -1,5 +1,5 @@
 # Tracking-Landmark-from-Satellite
-[AA404] assignment 7: Find and plot the intrack and crosstrack angle commands given to communicating antenna on a satellite, while tracking a ground landmark
+[Spacecraft Dynamics|AA404] : Find and plot the intrack and crosstrack angle commands given to communicating antenna on a satellite, while tracking a ground landmark
 
 #### Youtube video:  
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5aU2DVKxh1Y/0.jpg)](https://www.youtube.com/watch?v=5aU2DVKxh1Y)
